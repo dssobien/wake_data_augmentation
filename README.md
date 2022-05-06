@@ -1,1 +1,1 @@
-# wake_data_augmentation
+# Improving Deep Learning Through Data Augmentation and Latent Space
